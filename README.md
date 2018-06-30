@@ -28,13 +28,13 @@ IAscii
 
 SUMMARY
 ------------------
-	On Objective 1 I've completed require requirements
-	On Objective 2 I've completed require requirements
-	On Objective 3 I'm missing the interface requirement for = should	provide	the	zero-based index	where	the	
+	- On Objective 1 I've completed require requirements
+	- On Objective 2 I've completed require requirements
+	- On Objective 3 I'm missing the interface requirement for = should	provide	the	zero-based index	where	the	
 substring	begins	or	-1	if	it	does	not	exist
-	Wasn't sure why that would have to be located their, so I opted out untill reason.
-	On Objective 4 I've completed requirements, but I assume the user will prefer to type ASCII Text instead of DNA Code
-	On Objective 5 I've completed require requirements, but I assume to keep LCS in the same interface as the rest
+	- Wasn't sure why that would have to be located their, so I opted out untill reason.
+	- On Objective 4 I've completed requirements, but I assume the user will prefer to type ASCII Text instead of DNA Code
+	- On Objective 5 I've completed require requirements, but I assume to keep LCS in the same interface as the rest
 	
-	Extra
+EXTRA
 	Made it possible for the user to Convert DNA code back to ASCII Text
