@@ -25,8 +25,9 @@ Interfaces
 ------------------
 IAscii
 	-methods for encoding ASCII to DNA solution
--------------------
-Summary
+
+SUMMARY
+------------------
 	On Objective 1 I've completed require requirements
 	On Objective 2 I've completed require requirements
 	On Objective 3 I'm missing the interface requirement for = should	provide	the	zero-based index	where	the	
